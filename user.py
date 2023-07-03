@@ -1,6 +1,4 @@
-# user.py
 from authentication import *
-# from menu import main_menu
 
 logged_in = False
 user_id = None
